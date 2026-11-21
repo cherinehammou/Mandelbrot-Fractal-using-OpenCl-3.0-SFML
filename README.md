@@ -1,3 +1,10 @@
+<img width="1232" height="722" alt="Screenshot 2026-11-21 135747" src="https://github.com/user-attachments/assets/46d40aaf-066f-4a67-be1f-f9fe2d581bea" />
+<img width="1229" height="722" alt="Screenshot 2026-11-21 135737" src="https://github.com/user-attachments/assets/5ad453a5-cde9-47c3-88de-ce3134444fdc" />
+<img width="1226" height="718" alt="Screenshot 2026-11-21 135724" src="https://github.com/user-attachments/assets/c0a6b727-177d-4151-8cfc-ce2db9ba16fa" />
+<img width="1228" height="722" alt="Screenshot 2026-11-21 135708" src="https://github.com/user-attachments/assets/363b336c-f9c2-4cb8-8ae2-af60bb435051" />
+<img width="1226" height="719" alt="Screenshot 2026-11-21 135623" src="https://github.com/user-attachments/assets/2341cd0c-39a1-4154-ad8c-6316c355f459" />
+
+
 # Mandelbrot-Fractal-using-OpenCl-3.0-SFML
 
 A real-time, interactive fractal explorer. The escape-time computation runs on the GPU
