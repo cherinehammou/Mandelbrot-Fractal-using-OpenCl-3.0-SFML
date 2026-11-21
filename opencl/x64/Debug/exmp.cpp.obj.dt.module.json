@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "opencl\\x64\\Debug\\exmp.obj",
+            "outputs": [
+                "opencl\\x64\\Debug\\exmp.cpp.obj.dt.module.json",
+                "opencl\\x64\\Debug\\exmp.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
